@@ -1,0 +1,20 @@
+= Transporting Data at Warp Speed : How to connect your Spring Boot apps quickly, powerfully, and painlessly
+
+Parent repository to accompany session of the same name
+
+== Component repos
+
+* link:https://github.com/mkheck/planefinder[PlaneFinder data feeder (generates sample data if no device present)]
+* link:https://github.com/mkheck/sbd-thing1[Thing1 (PlaneFinder RSocket client; RSocket server for downstream services)]
+* link:https://github.com/mkheck/sbd-thing2[Thing2 (RSocket client; feeder via messaging platforms)]
+* link:https://github.com/mkheck/sbd-thing3[Thing3 (Consumer via messaging platforms)]
+
+== Accompanying slides
+
+* link:https://speakerdeck.com/mkheck/transporting-data-at-warp-speed-how-to-connect-your-spring-boot-apps-quickly-powerfully-and-painlessly[Transporting Data at Warp Speed]
+
+== Contact information
+
+* Mark Heckler
+* link:https://twitter.com/mkheck[@mkheck]
+* link:mailto:mark.heckler@gmail.com[mark.heckler@gmail.com]
